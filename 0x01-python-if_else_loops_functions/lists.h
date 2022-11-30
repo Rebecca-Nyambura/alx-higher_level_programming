@@ -17,8 +17,4 @@ typedef struct listint_s
 	struct listint_s *next;
 } listint_t;
 
-def islower(c);
-def uppercase(str);
-def print_last_digit(number);
-
 #endif /* LISTS_H */
