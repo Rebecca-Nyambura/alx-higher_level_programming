@@ -17,4 +17,7 @@ typedef struct listint_s
 	struct listint_s *next;
 } listint_t;
 
+def islower(c);
+def uppercase(str);
+
 #endif /* LISTS_H */
