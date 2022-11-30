@@ -19,5 +19,6 @@ typedef struct listint_s
 
 def islower(c);
 def uppercase(str);
+def print_last_digit(number);
 
 #endif /* LISTS_H */
